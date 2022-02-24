@@ -1,0 +1,4 @@
+1/create project symfony
+2/install et activer react js
+3/utiliser materiel ui
+4/api todo list
